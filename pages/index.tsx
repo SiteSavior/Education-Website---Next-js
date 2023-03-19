@@ -345,7 +345,7 @@ export default function Home() {
   <section className=' mt-96 font-Roboto'>
     <div className='flex flex-col gap-11 bg-blue1 pt-4 text-white'>
 <div className='flex flex-col gap-3 p-4 items-center justify-center'>
-<div className='flex justify-center text-4xl font-bold'>India's Most Loved Educational Platform</div>
+<div className='flex justify-center text-4xl font-bold'>India Most Loved Educational Platform</div>
 <div className='text-sm'>With Physics Wallah, Begin your journey to success.</div>
 </div>
 <div className='flex justify-evenly items-center gap-2 p-11'>

@@ -96,16 +96,16 @@ const Footer = () => {
             </div>
             <div className='flex flex-col gap-4 text-white tracking-wider'>
                 <div className='text-pink1 font-bold'>Know about Physics Wallah</div>
-<div>Physics Wallah is India's top online ed-tech platform that provides affordable and comprehensive learning experience to students of classes 6 to 12 and those preparing for JEE and NEET exams. We also provide extensive NCERT solutions, sample papers, NEET, JEE Mains, BITSAT previous year papers, which makes us a one-stop solution for all resources.</div>
+<div>Physics Wallah is India top online ed-tech platform that provides affordable and comprehensive learning experience to students of classes 6 to 12 and those preparing for JEE and NEET exams. We also provide extensive NCERT solutions, sample papers, NEET, JEE Mains, BITSAT previous year papers, which makes us a one-stop solution for all resources.</div>
 <div>Physics Wallah also caters to over 3.5 million registered students and over 78 lakh+ Youtube subscribers with 4.8 rating on its app.</div>
             </div>
             <div className='flex flex-col gap-4 text-white tracking-wider'>
                 <div className='text-pink1 font-bold'>We Stand Out because</div>
-<div>We successfully provide students with intensive courses by India's top faculties and personal mentors. PW strives to make the learning experience comprehensive and accessible for students of all sections of society. We believe in empowering every single student who could not dream of a good career in engineering and medical field earlier.</div>
+<div>We successfully provide students with intensive courses by India top faculties and personal mentors. PW strives to make the learning experience comprehensive and accessible for students of all sections of society. We believe in empowering every single student who could not dream of a good career in engineering and medical field earlier.</div>
             </div>
             <div className='flex flex-col gap-4 text-white tracking-wider'>
                 <div className='text-pink1 font-bold'>Our Key Focus Areas</div>
-<div>Physics Wallah's main focus is to make the learning experience as economical as possible for all students. With our affordable courses like Lakshya, Udaan and Arjuna and many others, we have been able to provide a platform for lakhs of aspirants. From providing Chemistry, Maths, Physics formula to giving e-books of eminent authors like RD Sharma, RS Aggarwal and Lakhmir Singh, PW focuses on every single student's need for preparation.</div>
+<div>Physics Wallah main focus is to make the learning experience as economical as possible for all students. With our affordable courses like Lakshya, Udaan and Arjuna and many others, we have been able to provide a platform for lakhs of aspirants. From providing Chemistry, Maths, Physics formula to giving e-books of eminent authors like RD Sharma, RS Aggarwal and Lakhmir Singh, PW focuses on every single students need for preparation.</div>
             </div>
             <div className='flex flex-col gap-4 text-white tracking-wider'>
                 <div className='text-pink1 font-bold'>What Makes Us Different</div>
